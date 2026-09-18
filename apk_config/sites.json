@@ -317,23 +317,23 @@
   "biglotus365live": {
     "cluster": "biglotus365live",
     "url": "https://biglotus365.live",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/biglotus365live2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/biglotus365live-v6.apk"
   },
   "biglotus365vip": {
     "cluster": "biglotus365vip",
     "url": "https://biglotus365.vip",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/biglotus365vip2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/biglotus365vip-v6.apk"
   },
   "bluewinclub": {
     "cluster": "bluewinclub",
     "url": "https://bluewin.club",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/bluewinclub2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/bluewinclub-v6.apk"
   },
   "bombaybook365com": {
     "cluster": "bombaybook365com",
@@ -366,9 +366,9 @@
   "bullwinred": {
     "cluster": "bullwinred",
     "url": "https://bullwin.red",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/bullwinred2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/bullwinred-v6.apk"
   },
   "cbtf5xcom": {
     "cluster": "cbtf5xcom",
@@ -408,23 +408,23 @@
   "cricbet2026com": {
     "cluster": "cricbet2026com",
     "url": "https://cricbet2026.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricbet2026com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricbet2026com-v6.apk"
   },
   "cricbet2027com": {
     "cluster": "cricbet2027com",
     "url": "https://cricbet2027.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricbet2027com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricbet2027com-v6.apk"
   },
   "cricbet2028com": {
     "cluster": "cricbet2028com",
     "url": "https://cricbet2028.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricbet2028com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricbet2028com-v6.apk"
   },
   "cricbet888co": {
     "cluster": "cricbet888co",
@@ -569,30 +569,30 @@
   "cricketbuzzlive": {
     "cluster": "cricketbuzzlive",
     "url": "https://cricketbuzz.live",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricketbuzzlive2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricketbuzzlive-v6.apk"
   },
   "cricplusclub": {
     "cluster": "cricplusclub",
     "url": "https://cricplus.club",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricplusclub2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricplusclub-v6.apk"
   },
   "cricpluslive": {
     "cluster": "cricpluslive",
     "url": "https://cricplus.live",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricpluslive2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricpluslive-v6.apk"
   },
   "cricwaygames": {
     "cluster": "cricwaygames",
     "url": "https://cricway.win",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/cricwaygames2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/cricwaygames-v6.apk"
   },
   "cricwinonlinecom": {
     "cluster": "cricwinonlinecom",
@@ -625,9 +625,9 @@
   "fairbro9club": {
     "cluster": "fairbro9club",
     "url": "https://fairbro9.club",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairbro9club2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairbro9club-v6.apk"
   },
   "fairdeallive": {
     "cluster": "fairdeallive",
@@ -660,58 +660,58 @@
   "fairplay11game": {
     "cluster": "fairplay11game",
     "url": "https://fairplay11.game",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay11game2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay11game-v6.apk"
   },
   "fairplay1club": {
     "cluster": "fairplay1club",
     "url": "https://fairplay1.pink",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay1club2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay1club-v6.apk"
   },
   "fairplay1pro": {
     "cluster": "fairplay1pro",
     "url": "https://fairplay1.pro",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay1pro2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay1pro-v6.apk"
   },
   "fairplay247game": {
     "cluster": "fairplay247game",
     "url": "https://fairplay247.game",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay247game2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay247game-v6.apk"
   },
   "fairplay24ac": {
     "cluster": "fairplay24ac",
     "url": "https://fairplay24.ac",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay24ac2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay24ac-v6.apk"
   },
   "fairplay24coin": {
     "cluster": "fairplay24coin",
     "url": "https://fairplay24.co.in",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay24coin2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay24coin-v6.apk"
   },
   "fairplay24win": {
     "cluster": "fairplay24win",
     "url": "https://fairplay.ink",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay24win2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay24win-v6.apk"
   },
   "fairplay444com": {
     "cluster": "fairplay444com",
     "url": "https://fairplay444.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplay444com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplay444com-v6.apk"
   },
   "fairplay4com": {
     "cluster": "fairplay4com",
@@ -737,9 +737,9 @@
   "fairplaygreen": {
     "cluster": "fairplaygreen",
     "url": "https://fairplay.green",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/fairplaygreen2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/fairplaygreen-v6.apk"
   },
   "fairplayid99com": {
     "cluster": "fairplayid99com",
@@ -786,9 +786,9 @@
   "gold365blue": {
     "cluster": "gold365blue",
     "url": "https://gold365.blue",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/gold365blue2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/gold365blue-v6.apk"
   },
   "gold365city": {
     "cluster": "gold365city",
@@ -849,9 +849,9 @@
   "govinda11io": {
     "cluster": "govinda11io",
     "url": "https://govinda11.io",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/govinda11io2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/govinda11io-v6.apk"
   },
   "jannatbook247com": {
     "cluster": "jannatbook247com",
@@ -1570,9 +1570,9 @@
   "playcasinovip": {
     "cluster": "playcasinovip",
     "url": "https://playcasino.vip",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/playcasinovip2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/playcasinovip-v6.apk"
   },
   "playgold99com": {
     "cluster": "playgold99com",
@@ -1605,9 +1605,9 @@
   "proexch9com": {
     "cluster": "proexch9com",
     "url": "https://proexch9.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/proexch9com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/proexch9com-v6.apk"
   },
   "raja321games": {
     "cluster": "raja321games",
@@ -1619,16 +1619,16 @@
   "rajveerbookonline": {
     "cluster": "rajveerbookonline",
     "url": "https://rajveerbook.online",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/rajveerbookonline2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/rajveerbookonline-v6.apk"
   },
   "rajveerexch247com": {
     "cluster": "rajveerexch247com",
     "url": "https://rajveerexch247.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/rajveerexch247com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/rajveerexch247com-v6.apk"
   },
   "ranibook247com": {
     "cluster": "ranibook247com",
@@ -1640,37 +1640,37 @@
   "rcb777com": {
     "cluster": "rcb777com",
     "url": "https://rcb777.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/rcb777com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/rcb777com-v6.apk"
   },
   "realfairplayapp": {
     "cluster": "realfairplayapp",
     "url": "https://realfairplay.app",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/realfairplayapp2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/realfairplayapp-v6.apk"
   },
   "reallotus365io": {
     "cluster": "reallotus365io",
     "url": "https://reallotus365.io",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/reallotus365io2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/reallotus365io-v6.apk"
   },
   "realreddycom": {
     "cluster": "realreddycom",
     "url": "https://realreddy.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/realreddycom2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/realreddycom-v6.apk"
   },
   "reddy1book24x7club": {
     "cluster": "reddy1book24x7club",
     "url": "https://reddy1book24x7.club",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/reddy1book24x7club2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/reddy1book24x7club-v6.apk"
   },
   "reddy365club": {
     "cluster": "reddy365club",
@@ -1920,58 +1920,58 @@
   "shriram11com": {
     "cluster": "shriram11com",
     "url": "https://shriram11.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/shriram11com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/shriram11com-v6.apk"
   },
   "shriram999vip": {
     "cluster": "shriram999vip",
     "url": "https://shriram999.vip",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/shriram999vip2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/shriram999vip-v6.apk"
   },
   "shriram99com": {
     "cluster": "shriram99com",
     "url": "https://shriram99.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/shriram99com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/shriram99com-v6.apk"
   },
   "shrirambookonline": {
     "cluster": "shrirambookonline",
     "url": "https://shrirambook.online",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/shrirambookonline2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/shrirambookonline-v6.apk"
   },
   "skyexch2026com": {
     "cluster": "skyexch2026com",
     "url": "https://skyexch2026.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/skyexch2026com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/skyexch2026com-v6.apk"
   },
   "skyexch2027com": {
     "cluster": "skyexch2027com",
     "url": "https://skyexch2027.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/skyexch2027com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/skyexch2027com-v6.apk"
   },
   "skyexch2028com": {
     "cluster": "skyexch2028com",
     "url": "https://skyexch2028.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/skyexch2028com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/skyexch2028com-v6.apk"
   },
   "sports99games": {
     "cluster": "sports99games",
     "url": "https://sports99.games",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/sports99games2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/sports99games-v6.apk"
   },
   "superfastvip": {
     "cluster": "superfastvip",
@@ -1983,37 +1983,37 @@
   "superwingold": {
     "cluster": "superwingold",
     "url": "https://superwin.dev",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/superwingold2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/superwingold-v6.apk"
   },
   "swamiji247com": {
     "cluster": "swamiji247com",
     "url": "https://swamiji247.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/swamiji247com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/swamiji247com-v6.apk"
   },
   "swamijiapp": {
     "cluster": "swamijiapp",
     "url": "https://swamiji.app",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/swamijiapp2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/swamijiapp-v6.apk"
   },
   "swamijilive": {
     "cluster": "swamijilive",
     "url": "https://swamiji.live",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/swamijilive2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/swamijilive-v6.apk"
   },
   "swamijivip": {
     "cluster": "swamijivip",
     "url": "https://swamiji.vip",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/swamijivip2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/swamijivip-v6.apk"
   },
   "thelaser247co": {
     "cluster": "thelaser247co",
@@ -2046,23 +2046,23 @@
   "tigerexch2026club": {
     "cluster": "tigerexch2026club",
     "url": "https://tigerexch2026.club",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/tigerexch2026club2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/tigerexch2026club-v6.apk"
   },
   "tigerexch2027com": {
     "cluster": "tigerexch2027com",
     "url": "https://tigerexch2027.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/tigerexch2027com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/tigerexch2027com-v6.apk"
   },
   "tigerexch2028com": {
     "cluster": "tigerexch2028com",
     "url": "https://tigerexch2028.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/tigerexch2028com2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/tigerexch2028com-v6.apk"
   },
   "tigerexch247io": {
     "cluster": "tigerexch247io",
@@ -2074,9 +2074,9 @@
   "tryluckcom": {
     "cluster": "tryluckcom",
     "url": "https://tryluck.com",
-    "version-code": "4",
-    "version-name": "1.0.3",
-    "apk": "https://speedcdn.io/apk2/tryluckcom2.apk"
+    "version-code": "6",
+    "version-name": "1.0.6",
+    "apk": "https://speedcdn.io/apk6/tryluckcom-v6.apk"
   },
   "vardaanio": {
     "cluster": "vardaanio",
